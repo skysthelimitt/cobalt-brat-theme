@@ -4,7 +4,7 @@
 // @version      2024-06-08
 // @description  cobalt brat theme
 // @author       sky
-// @match        https://cobalt.tools
+// @match        https://cobalt.tools/
 // @icon         https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Charli_XCX_-_Brat_%28album_cover%29.png/440px-Charli_XCX_-_Brat_%28album_cover%29.png
 // @grant        none
 // ==/UserScript==
